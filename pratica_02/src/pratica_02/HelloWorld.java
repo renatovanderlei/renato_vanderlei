@@ -3,7 +3,8 @@ package pratica_02;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-	System.out.println("HelloWorld da prática 02");
+		System.out.println("HelloWorld pratica_02");//
+
 	}
 
 }
