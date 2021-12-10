@@ -4,7 +4,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 	System.out.println("HelloWorld da prática 02");
-
+	System.out.println("Segundo commit da prática 02");
 	}
 
 }
