@@ -9,5 +9,6 @@ public class HelloWorld {
 
 		System.out.println("Merge da hotfix na main");
 		// Refazendo o branch
+		System.out.println("Mais um commit na main");
 	}
 }
