@@ -8,6 +8,7 @@ public class HelloWorld {
 		System.out.println("Agora uns commits na hotfix. A Main tá rolando tb mudanças!");
 		
 		// commit na hotfix
+		System.out.println("Commit 2 na hotfix");
 	}
 
 }
