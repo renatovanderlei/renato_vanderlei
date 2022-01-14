@@ -6,5 +6,6 @@ public class HelloWorld {
 		System.out.println("HelloWorld pratica_02");
 		// Refazendo o branch
 		System.out.println("Merge novo da main e hotfix");
+		//main
 	}
 }
