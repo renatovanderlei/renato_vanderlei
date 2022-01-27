@@ -7,5 +7,6 @@ public class HelloWorld {
 		// Refazendo o branch
 		System.out.println("Merge novo da main e hotfix");
 		//main
+		System.out.println("Mudança na hotfix");
 	}
 }
